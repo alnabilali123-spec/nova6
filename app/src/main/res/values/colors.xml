@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_red">#FFFF1744</color>
+    <color name="brand_red_dark">#FFB0002A</color>
+    <color name="brand_red_light">#FFFF5252</color>
+    <color name="brand_purple">#FF6A1B9A</color>
+    <color name="brand_teal">#FF00BFA5</color>
+    <color name="brand_amber">#FFFFAB00</color>
+
+    <color name="background_light">#FFF7F7F7</color>
+    <color name="background_dark">#FF000000</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="surface_dark">#FF121212</color>
+    <color name="on_surface_light">#FF1A1A1A</color>
+    <color name="on_surface_dark">#FFE5E5E5</color>
+
+    <color name="ic_launcher_background">#FFB0002A</color>
+</resources>
